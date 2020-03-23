@@ -1,12 +1,20 @@
 # **Insurance**
 
-## **Anti Money Laundering**
+1. [Anti Money Laundering](#anti-money-laundering)
+2. [Solvency II](#solvency-ii)
+3. [IFRS](#IFRS-9-and-IFRS-17-(International-Financial-Reporting-Standards))
+4. [Compliance](#compliance)
+5. [Contract Management](#contract-management)
+6. [Claims Management](#claims-management)
+7. [Scope of Automation](#scope-of-automation)
 
-https://complyadvantage.com/knowledgebase/anti-money-laundering-insurance-sector/ 
+## **Anti Money Laundering**
 
 Governments and international authorities implement a range of anti-money laundering life insurance regulations and issue life insurance sanctions lists. With compliance penalties including fines and prison terms, life insurance firms should ensure they understand their obligations and how to implement them as part of their AML policy. 
 
 Given the vast amount of information involved in transaction monitoring and sanctions screening, many insurers choose to automate their AML/CFT programs with smart technology. Automated AML/CFT is an opportunity to enhance the speed and accuracy of monitoring and screening processes, reduce potential human error and, ultimately, avoid costly compliance penalties.
+
+https://complyadvantage.com/knowledgebase/anti-money-laundering-insurance-sector/ 
 
 ## **Solvency II**
 
@@ -50,13 +58,40 @@ IFRS 17 and IFRS 9 also serve this purpose but they focus both on specific topic
 
 https://ifrs17explained.com/2019/08/09/an-introduction-to-ifrs-9-and-ifrs-17/
 
+## **Compliance**
+
+Insurers are now operating in a complex and increasingly-regulated economic environment, requiring them to cope with new risks, make more substantial commitments, to innovate.
+Used with permission from MicrosoftIt is in this context that many safeguards have been put in place by the authorities. This is particularly true in the European countries where the rules of Solvency II that come into effect on 1 January 2016 impose a new set of obligations including the compliance function.
+
+In an ever-changing world, insurers are constantly required by the authorities to maintain high standards in the governance of their companies. The recent resounding bankruptcies have pushed companies to exercise utmost caution and take appropriate measures to maintain solvency and insurance consumers’ confidence.
+
+In most developing countries, efforts are also underway in this direction, with many regulations being enacted with reference to Solvency II. Insurance companies themselves have taken steps in establishing internal rules to ensure optimum safety of their customers and to maintain their image.
+
+### The risk of non-compliance
+
+The risk of non-compliance may be defined as the risk of legal or regulatory sanctions, material financial losses or deterioration of the image that an insurer may sustain for non-compliance with laws, regulations and administrative provisions pertaining to the company’s operations.
+Any deviation from this principle is liable to sanctions.
+
+https://www.atlas-mag.net/en/article/the-compliance-function 
+
 ## **Contract Management** 
 
-Looks Automatable
+### What is Contract Management?
 
-https://www.hanover.com/risksolutions/contract-management.html
+Contract management or Contract Lifecycle Management is the Management of contracts from vendors, partners, customers, or employees. When contract management is handled correctly, contract management includes self-service portals, Legal pre-approved templates, Legal playbooks, and electronic signature (e-signature.)
 
-https://apttus.com/resources/what-is-contract-management/
+### What Are the Challenges of Contract Management?
+
+1. Manual contract management introduces bottlenecks into the sales cycle.
+Legal is often the department responsible for creating, managing and maintaining contracts within the enterprise. Unfortunately, when Legal has to manage contracts manually, the contract management process gets bottlenecked. 
+
+2. Manual contract management introduces (manual) errors.
+And a lot is riding on the Legal team if they don’t catch mistakes, such as:
+
+    - Non-compliance
+    - Revenue leakage
+    - Extended sales cycle times
+    - Jeopardized customer relationships
 
 ### The Benefits of Automating the Contract Management Process
 The benefits of automating contract management are real. If your contracts are done faster, you’re going to be able to collect on them sooner. If they’re accurate, you’re going to have far fewer disputes. General Counsels and C-level executives can finally sleep at night because they are confident that the contract management process is working.
@@ -82,36 +117,31 @@ Benefits of Automating Contract Management Include:
     - Increase revenue by 1 – 2%
 
 ### 4 Steps To Automating Your Contract Management Process
+
 Contracts are essential to your business, and so is an effective contract management system. If you’ve taken on an initiative to streamline and optimize your quote-to-cash process, but you ignore contracts, you are seriously stifling any impending success. You may not reach perfection overnight, but by following the steps of the contract maturity model, you can turn contract management into a strategic process that is intuitive and transparent for your business in a tempered, processed way.
 
 1. Consolidation
-
-Templates | Clause libraries | Search functionality | Import utilities | Single contract type support
 
 Eliminate information silos and connect your front- and back-end systems to create one central repository for all aspects of your contracts, including templates, clauses and exceptions. With a single source of truth, you and approved business users, partners and customers can view, manage, update and search your contracts for necessary and accurate information.
 
 2. Task automation
 
-Office automation | Authoring tools | Drag and drop clauses | Redlining | Versioning | Approval workflow | Back-office integration
-
 Automate manual processes to free up valuable legal time and energy so your lawyers can focus on critical or special-case contracts relevant to their expertise. Task automation increases process control, reduces the number of errors and speeds up the contract cycle time.
 
 3. Process efficiencies
-
-Multiple contract-type support | Contract assembly | Single sign-on security | Multi-national support | Alerts and notifications | Collaboration | Mobile access | E-signature
 
 Process efficiencies create a well-organized contract process so all stakeholders – Legal, Finance, Sales and departments managing obligations and deliverables – can spend time on critical tasks that correlate with their expertise and job role. Your enterprise will experience faster contract cycle times, reduce admin costs and off-site capabilities with e-signature.
 
 4. Contract performance
 
-Analytics | Reporting | Role-based dashboards | Terms compliance tracking | Milestone analysis | Spend analysis | Profitability | Renewal management | Invoicing
-
 As a company, you’re always encouraged, or even expected, to improve, and contract management should be held to that same standard. Gain visibility into your contracts and contract process to identify and remedy pain points or gaps in order to provide the best service to your customers.
+
+https://www.hanover.com/risksolutions/contract-management.html
+
+https://apttus.com/resources/what-is-contract-management/
 
 
 ## **Claims Management**
-
-https://www.vanameyde.com/what-is-claims-management/
 
 We’re all confronted with damage at one time or other. You may accidentally cause damage to someone else’s property or find that your own property is damaged. Fortunately, you’ll have most of your possessions insured: your car, your home, your household effects. You are also likely to have travel and third-party liability insurance. All of these come under the heading ‘non-life insurance’. You don’t really know what your insurance policy will do for you until you actually suffer loss or damage. If this happens, it’s up to the loss adjuster or claims manager to settle your claim as quickly and efficiently as possible. When you notify a claim, you trigger a complicated process of which you, as the insured party, may be unaware of.
 
@@ -152,21 +182,8 @@ Monitoring costs throughout the claims management process determines how much of
 
 In most cases involving insurance claim disputes, the insurance company eventually agrees to pay an equitable amount if a customer has a legitimate claim and can present evidence supporting it. Although quickly settling a claim can avoid the chances for litigation, accurate liability assessment is crucial to achieving a quick resolution in a claim dispute. Insurers work to evade litigation because it substantially increases the company's cost of settling a claim. For instance, one-time cases where a person misrepresents information he provides on an insurance application can be expensive for an insurance company to prove legally. Causing a company financial loss is another reason to avoid litigation. Small insurance companies are not immune but rather are increasingly exposed to potential litigation involving claim disputes.
 
-## **Compliance**
+https://www.vanameyde.com/what-is-claims-management/ 
 
-https://www.atlas-mag.net/en/article/the-compliance-function 
-
-Insurers are now operating in a complex and increasingly-regulated economic environment, requiring them to cope with new risks, make more substantial commitments, to innovate.
-Used with permission from MicrosoftIt is in this context that many safeguards have been put in place by the authorities. This is particularly true in the European countries where the rules of Solvency II that come into effect on 1 January 2016 impose a new set of obligations including the compliance function.
-
-In an ever-changing world, insurers are constantly required by the authorities to maintain high standards in the governance of their companies. The recent resounding bankruptcies have pushed companies to exercise utmost caution and take appropriate measures to maintain solvency and insurance consumers’ confidence.
-
-In most developing countries, efforts are also underway in this direction, with many regulations being enacted with reference to Solvency II. Insurance companies themselves have taken steps in establishing internal rules to ensure optimum safety of their customers and to maintain their image.
-
-### The risk of non-compliance
-
-The risk of non-compliance may be defined as the risk of legal or regulatory sanctions, material financial losses or deterioration of the image that an insurer may sustain for non-compliance with laws, regulations and administrative provisions pertaining to the company’s operations.
-Any deviation from this principle is liable to sanctions.
 
 ## **Scope of Automation**
 
