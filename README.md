@@ -74,6 +74,8 @@ Any deviation from this principle is liable to sanctions.
 
 https://www.atlas-mag.net/en/article/the-compliance-function 
 
+https://www.ira.go.ke/images/docs/Guideline_on_Risk_Management_and_Internal_Controls.pdf
+
 ## **Contract Management** 
 
 ### What is Contract Management?
