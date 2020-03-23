@@ -38,7 +38,7 @@ https://en.wikipedia.org/wiki/Solvency_II_Directive_2009
 https://www.nortonrosefulbright.com/en/knowledge/publications/f12a4a4a/ten-things-you-need-to-know-about-solvency-ii
 
 
-## **IFRS 9 and IFRS 17 (International Financial Reporting Standards) **
+## **IFRS 9 and IFRS 17 (International Financial Reporting Standards)**
 
 Insurance companies who currently disclose under IFRS need to implement the new accounting standards; IFRS 9 and IFRS 17.
 
